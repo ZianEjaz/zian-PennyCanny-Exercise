@@ -1,0 +1,15 @@
+.head-bg{
+    background:-webkit-linear-gradient(90deg,#f4f4f4 50%,#001534 50%);
+}
+.bg-navy-sm{
+    background-color: transparent;
+}
+
+@media screen and (max-width: 640px) {
+    .head-bg{
+        background:transparent
+    }
+    .bg-navy-sm{
+        background-color: #001534;
+    }
+}

@@ -1,0 +1,29 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+.bg-navy {
+  background-color: #001534;
+}
+.bg-gold {
+  background-color: #e0af2f;
+}
+.bg-white {
+  background-color: #ffffff;
+}
+.bg-off-white {
+  background-color: #f4f4f4;
+}
+.bg-gray {
+  background-color: #707070;
+}
+
+
+.text-gold {
+  color: #e0af2f;
+}
+.text-navy{
+  color: #001534
+}
+ .text-gray{
+  color: #707070;
+ }
